@@ -70,6 +70,8 @@ Additional validation confirmed that customer status evolved over time, with cus
 ---
 
 ## Key Business Metrics
+<img width="1643" height="998" alt="image" src="https://github.com/user-attachments/assets/7d8ccfe6-fcf9-4966-b4cd-c3148ad9d73b" />
+
 
 | Metric                | Value   |
 | --------------------- | ------- |
@@ -83,6 +85,7 @@ Additional validation confirmed that customer status evolved over time, with cus
 ---
 
 ## Revenue Performance Analysis
+<img width="1800" height="767" alt="image" src="https://github.com/user-attachments/assets/c77d7dfb-1130-4585-9a35-9cde9fb92ce7" />
 
 Revenue performance fluctuated throughout 2025.
 
@@ -95,6 +98,7 @@ During early 2026, revenue displayed a gradual and sustained decline, prompting 
 ---
 
 ## Product Category Analysis
+<img width="1775" height="743" alt="image" src="https://github.com/user-attachments/assets/b8af70e5-b699-45b7-bcb9-3562cee10836" />
 
 Electronics emerged as the dominant revenue-generating category.
 
@@ -112,6 +116,7 @@ The business is heavily dependent on Electronics performance, making category op
 ---
 
 ## Customer Segmentation Analysis
+<img width="1804" height="739" alt="image" src="https://github.com/user-attachments/assets/256abf4c-6117-4868-a5b9-860cf207a857" />
 
 Customer age analysis revealed clear differences in customer value.
 
@@ -131,6 +136,7 @@ These customer groups were identified as the highest-value segments and the most
 ---
 
 ## Customer Retention Analysis
+<img width="1287" height="778" alt="image" src="https://github.com/user-attachments/assets/6601ff67-8521-46c9-b6b9-422e2b630c53" />
 
 Returning customers generated a significant proportion of company revenue.
 
@@ -141,6 +147,8 @@ Returning customers generated a significant proportion of company revenue.
 * Approximately 95% of revenue originated from repeat customers
 
 To determine whether repeat purchasing behaviour directly influenced revenue performance, statistical analysis was conducted.
+
+<img width="864" height="251" alt="image" src="https://github.com/user-attachments/assets/2fa86a2e-3769-4c9f-8326-695aff5e6ddc" />
 
 ### Statistical Results (2025)
 
@@ -159,6 +167,8 @@ Repeat purchase behaviour explained only 1.2% of revenue variation, suggesting t
 ---
 
 ## Extended Retention Analysis (January 2025 – March 2026)
+
+<img width="868" height="252" alt="image" src="https://github.com/user-attachments/assets/c34c4b52-6fde-4ff4-b8d5-bb22fc04b2c5" />
 
 To gain a broader understanding of customer retention impact, the analysis period was extended.
 
@@ -184,6 +194,8 @@ While retention did not explain short-term monthly fluctuations, customer retent
 
 ## Discount Effectiveness Analysis
 
+<img width="956" height="558" alt="image" src="https://github.com/user-attachments/assets/3d85e4ee-58d5-4de6-a117-f90cba365cdb" />
+
 Discount activity was evaluated to determine its influence on customer purchasing behaviour.
 
 ### Findings
@@ -201,6 +213,8 @@ This suggests that broad discounting strategies may reduce margins without signi
 ---
 
 ## Geographic Analysis
+
+<img width="1722" height="762" alt="image" src="https://github.com/user-attachments/assets/bd12bcf3-0a7b-4c23-a96a-1256b075ba65" />
 
 Customer demand was concentrated within specific markets.
 
